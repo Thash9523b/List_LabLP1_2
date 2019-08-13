@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1565664063 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 3\main.cpp
+	<iostream>
+	"Consultor.h"
+
+1565663750 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 3\src\consultor.cpp
+	"Consultor.h"
+
+1565663265 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 3\include\consultor.h
+	"Funcionario.h"
+
+1565663772 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 3\include\funcionario.h
+	<string>
+
+1565663750 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 3\src\funcionario.cpp
+	"Funcionario.h"
+	<string>
+
