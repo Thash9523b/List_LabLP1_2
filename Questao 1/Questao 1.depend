@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1565658382 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 1\main.cpp
+	"RestauranteCaseiro.h"
+	<iostream>
+
+1565657838 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 1\src\pedido.cpp
+	"Pedido.h"
+
+1565657837 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 1\include\pedido.h
+	<string>
+
+1565652526 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 1\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1565650905 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 1\include\mesaderestaurante.h
+	"Pedido.h"
+
+1565654152 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 1\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1565653873 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 1\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
