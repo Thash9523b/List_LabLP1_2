@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1565668657 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\main.cpp
+	<iostream>
+	"PorHora.h"
+	"Assalariado.h"
+	<string>
+
+1565668851 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\src\trabalhador.cpp
+	"Trabalhador.h"
+	<string>
+
+1565666844 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\include\trabalhador.h
+	<string>
+
+1565667036 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1565667168 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
+1565668657 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\src\porhora.cpp
+	"PorHora.h"
+	<string>
+
+1565668657 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\include\porhora.h
+	"Trabalhador.h"
+	<string>
+
+1565668711 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\src\assalariado.cpp
+	"Assalariado.h"
+
+1565668710 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 5\include\assalariado.h
+	"Trabalhador.h"
+	<string>
+
