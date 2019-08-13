@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1565666391 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Circulo.h"
+	"Quadrado.h"
+
+1565665763 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\src\circulo.cpp
+	"Circulo.h"
+
+1565665640 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\include\circulo.h
+	"FiguraGeometrica.h"
+
+1565664422 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\include\figurageometrica.h
+	<string>
+
+1565664671 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1565665016 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\src\quadrado.cpp
+	"Quadrado.h"
+
+1565664906 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1565666069 source:c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\src\triangulo.cpp
+	"Triangulo.h"
+
+1565665915 c:\users\thais-pc\desktop\faculdade\lp1\lista2\questao 4\include\triangulo.h
+	"FiguraGeometrica.h"
+
